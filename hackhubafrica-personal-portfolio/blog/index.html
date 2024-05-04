@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HackHubAfrica - Personal Portfolio</title>
+    <link rel="shortcut icon" href="../assets/images/logo.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+              
+          <div class="container">
+              <aside class="sidebar">
+                  <ul class="sidebar-list">
+                      <li><a href="#about">About Me</a></li>
+                      <li><a href="#courses">Courses</a></li>
+                      <li><a href="#contact">Contact</a></li>
+                  </ul>
+              </aside>
+              <main class="main-content">
+                  <section id="about" class="content-section">
+                      <h2>About Me</h2>
+                      <p>Description about yourself and your background.</p>
+                  </section>
+                  <section id="courses" class="content-section">
+                      <h2>Courses I Teach</h2>
+                      <p>Information on courses, schedule, and enrollment options.</p>
+                  </section>
+                  <section id="contact" class="content-section">
+                      <h2>Contact Information</h2>
+                      <p>How people can get in touch with you.</p>
+                  </section>
+              </main>
+          </div>
+
+          <!-- JavaScript for Smooth Scrolling -->
+          <script>
+          document.querySelectorAll('.sidebar-list a').forEach(link => {
+              link.addEventListener('click', function(e) {
+                  e.preventDefault();
+                  const targetSection = document.querySelector(this.getAttribute('href'));
+                  targetSection.scrollIntoView({ behavior: 'smooth' });
+              });
+          });
+          </script>
+
+
+
+
+
+
+
+    <header>
+        <nav class="navbar">
+            <ul class="navbar-list">
+                <li><a href="#" class="navbar-link active" data-nav-link>Home</a></li>
+                <li><a href="#" class="navbar-link" data-nav-link>Resume</a></li>
+                <li><a href="#" class="navbar-link" data-nav-link>Portfolio</a></li>
+                <li><a href="#" class="navbar-link" data-nav-link>Blog</a></li>
+                <li><a href="#" class="navbar-link" data-nav-link>Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main class="main-content">
+        <article class="about active" data-page="about">
+            <h2 class="article-title">Google Cybersecurity</h2>
+
+            <section class="about-text">
+                <h3>Introduction</h3>
+                <p>Cybersecurity (Security) is the practice of ensuring the C.I.A of information by protecting networks, devices, people, and data from unauthorized access or criminal exploitation. PII (Personal Identifiable Information) and SPII (Sensitive Personal Identifiable Information) are targeted by criminals for Identity Theft and Financial Gain.</p>
+                <h3>The CIA Triad</h3>
+                <img src="./CIA triad.png" alt="CIA Triad" height="350" width="350" style="display:block; margin:auto;">
+                <ol>
+                    <li><b>Confidentiality</b> means only authorized users can access specific assets or data.</li>
+                    <li><b>Integrity</b> means the data is correct, authentic, and reliable.</li>
+                    <li><b>Availability</b> means the data is accessible to those who are authorized to access it.</li>
+                </ol>
+
+                <h3>Benefits of Security</h3>
+                <ol>
+                    <li>Protects against external and internal threats.</li>
+                    <li>Meets regulatory compliance.</li>
+                    <li>Maintains and improves business productivity.</li>
+                    <li>Reduces expenses such as avoiding fines.</li>
+                    <li>Maintains trust and reputation of business.</li>
+                </ol>
+
+                <h3>Well Known Breaches</h3>
+                <ol>
+                    <li>Brain virus created in 1986 - Used to track illegal copies of medical software - Pirated copy of the software infected computers and any inserted disks.</li>
+                    <li>Morris worm in 1988 - Used to assess the size of the internet - About 6000 computers were infected, representing 10% of the internet at the time.</li>
+                    <li>I Love You Letter in 2000 - Used to steal internet login credentials - 45 million computers were infected and 10 billion dollars in damages - Phishing proved to be a very effective method in this attack.</li>
+                    <li>Equifax Breach in 2017 - 143 million customer records stolen - PII and SPII customer data was stolen - Over 500 million paid in compensations.</li>
+                </ol>
+
+                <h3>CISSP 8 Security Domains</h3>
+                <img src="./security domains.png" alt="CISSP 8 Security Domains" height="550" width="550" style="display:block; margin:auto;">
+                <ol>
+                    <li><b>Security and Risk Management</b> – Defines security goals and objectives, risk mitigation, compliance, business continuity, and the law.</li>
+                    <li><b>Asset Security</b> – Secures digital and physical assets. Also related to the storage, maintenance, retention, and destruction of data.</li>
+                    <li><b>Security Architecture and Engineering</b> – Optimizes data security by ensuring effective tools, systems, and processes are in place, e.g., Configuring Firewalls.</li>
+                    <li><b>Communications and Network Security</b> – Manages and secures physical networks and wireless communications.</li>
+                    <li><b>Identity and Access Management</b> – Keeps data secure by ensuring users follow established policies to control and manage physical assets, like office spaces, and logical assets, such as networks and applications. Involves validating identities and documenting access roles of employees.</li>
+                    <li><b>Security Assessment and Testing</b> – Conducts security control testing, collects and analyzes data, and conducts security audits to monitor for risks, threats, and vulnerabilities. Accessing and evaluating user permissions.</li>
+                    <li><b>Security Operations</b> – Conducts investigations and implements preventive measures.</li>
+                    <li><b>Software Development Security</b> – Uses secure coding practices, which are a set of recommended guidelines that are used to create secure applications and services in the software development cycle.</li>
+                </ol>
+
+                <h3>Security Frameworks and Controls</h3>
+                <p>Security frameworks are guidelines to help mitigate risk and threats to data and privacy. Security Controls are safeguards designed to reduce specific security risks.</p>
+                <img src="./Components of Frameworks.png" alt="Components of Frameworks" height="350" width="350" style="display:block; margin:auto;">
+                <h3 id="components-of-framework">Components of Frameworks</h3>
+                <ol>
+                    <li>Identifying and documenting security goals.</li>
+                    <li>Setting guidelines to achieve security goals.</li>
+                    <li>Implementing security processes.</li>
+                    <li>Monitoring and communicating results.</li>
+                </ol>
+                <h3 id="purposes-of-frameworks">Purposes of these frameworks</h3>
+                <ol>
+                    <li>Protecting PII.</li>
+                    <li>Securing financial information.</li>
+                    <li>Securing health information.</li>
+                </ol>
+            </section>
+        </article>
+    </main>
+    <script src="../assets/js/script.js"></script>
+</body>
+
+</html>

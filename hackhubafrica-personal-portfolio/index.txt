@@ -1,0 +1,391 @@
+vCard - Personal Portfolio
+
+# sidebar
+
+alt = Richard hanrick
+Richard hanrick
+Web developer
+
+Show Contacts
+
+Email
+richard@example.com
+
+Phone
++1 (213) 352-2795
+
+Birthday
+June 23, 1982
+
+Location
+Sacramento, California, USA
+
+# navbar
+
+About
+Resume
+Portfolio
+Blog
+Contact
+
+# about
+
+About me
+
+I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+
+
+## service
+
+What i'm doing
+
+alt = design icon
+Web design
+The most modern and high-quality design made at a professional level.
+
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
+
+alt = mobile app icon
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
+
+## testimonials
+
+Testimonials
+
+alt = Daniel lewis
+Daniel lewis
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Jessica miller
+Jessica miller
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Emily evans
+Emily evans
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+alt = Henry william
+Henry william
+Richard was hired to create a corporate identity. We were very pleased with the work done. She has a lot of experience and is very concerned about the needs of client. Lorem ipsum dolor sit amet, ullamcous cididt consectetur adipiscing elit, seds do et eiusmod tempor incididunt ut laborels dolore magnarels alia.
+
+
+## clients
+
+Clients
+
+alt = client logo
+
+
+
+# resume
+
+Resume
+
+Education
+
+University school of the arts
+2007 — 2008
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+New york academy of art
+2006 — 2007
+Ratione voluptatem sequi nesciunt, facere quisquams facere menda ossimus, omnis voluptas assumenda est omnis..
+
+High school of art and design
+2002 — 2004
+Duis aute irure dolor in reprehenderit in voluptate, quila voluptas mag odit aut fugit, sed consequuntur magni dolores eos.
+
+Experience
+
+Creative director
+2015 — Present
+Nemo enim ipsam voluptatem blanditiis praesentium voluptum delenit atque corrupti, quos dolores et qvuas molestias exceptur.
+
+Art director
+2013 — 2015
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+Web designer
+2010 — 2013
+Nemo enims ipsam voluptatem, blanditiis praesentium voluptum delenit atque corrupti, quos dolores et quas molestias exceptur.
+
+My skills
+
+Web design
+80%
+Graphic design
+70%
+Branding
+90%
+WordPress
+50%
+
+
+
+# portfolio
+
+Portfolio
+
+All
+Web design
+Applications
+Web development
+
+Select category
+All
+Web design
+Applications
+Web development
+
+alt = finance
+Finance
+Web development
+
+alt = orizon
+Orizon
+Web development
+
+alt = fundo
+Fundo
+Web design
+
+alt = brawlhalla
+Brawlhalla
+Applications
+
+alt = dsm.
+DSM.
+Web design
+
+alt = metaspark
+MetaSpark
+Web design
+
+alt = summary
+Summary
+Web development
+
+alt = task manager
+Task Manager
+Applications
+
+alt = arrival
+Arrival
+Web development
+
+
+
+# blog
+
+Blog
+
+alt = Design conferences in 2022
+Design
+Fab 23, 2022
+Design conferences in 2022
+Veritatis et quasi architecto beatae vitae dicta sunt, explicabo.
+
+alt = Best fonts every designer
+Design
+Fab 23, 2022
+Best fonts every designer
+Sed ut perspiciatis, nam libero tempore, cum soluta nobis est eligendi.
+
+alt = Design digest #80
+Design
+Fab 23, 2022
+Design digest #80
+Excepteur sint occaecat cupidatat no proident, quis nostrum exercitationem ullam corporis suscipit.
+
+alt = UI interactions of the week
+Design
+Fab 23, 2022
+UI interactions of the week
+Enim ad minim veniam, consectetur adipiscing elit, quis nostrud exercitation ullamco laboris nisi.
+
+alt = The forgotten art of spacing
+Design
+Fab 23, 2022
+The Forgotten Art Of Spacing
+Maxime placeat, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+alt = Design digest #79
+Design
+Fab 23, 2022
+Design Digest #79
+Optio cumque nihil impedit uo minus quod maxime placeat, velit esse cillum.
+
+
+
+# contact
+
+Contact
+
+Contact Form
+
+Full name
+Email address
+Your Message
+
+Send Message
+
+
+
+
+
+
+
+
+
+
+
+      <!--
+        >>> how should i describe my job to a new client and how i can help him
+... or her solve problems related to this field
+When describing your job as an Electrical and Telecommunications
+Engineer with expertise in Cybersecurity, you could highlight the
+following points:
+
+1. Network Infrastructure Security: Explain that you specialize in
+designing and implementing secure network infrastructure for
+clients, including firewalls, intrusion detection systems, and
+other security protocols to protect against cyber threats.
+2. Penetration Testing: Mention that you actively participate in
+Capture The Flag (CTF) challenges to test your skills against
+other professionals and identify potential vulnerabilities in your
+own systems. This helps you stay sharp and provide the best
+possible protection for clients.
+3. Communication and Collaboration: Emphasize that you have
+excellent soft skills, including effective communication and
+collaboration with clients and other stakeholders. You can explain
+that you are able to articulate complex security concepts in
+simple terms, making it easier for non-technical individuals to
+understand the risks and challenges associated with cyber threats.
+4. Problem-Solving: Highlight your ability to identify and solve
+problems related to cybersecurity. You can explain that you have
+experience in conducting risk assessments, designing security
+architectures, and implementing security solutions tailored to
+clients' needs.
+5. Consulting Services: Offer consulting services to help clients
+navigate the complex world of cybersecurity. Explain that you can
+provide guidance on best practices, regulatory compliance, and
+incident response, as well as help them develop a comprehensive
+cybersecurity strategy.
+
+To help your new client solve problems related to this field, you
+could offer the following services:
+
+1. Risk Assessment: Conduct a thorough risk assessment to identify
+potential vulnerabilities in their network infrastructure and
+provide recommendations for mitigation.
+2. Security Architecture Design: Develop a customized security
+architecture that aligns with your client's business goals and
+meets industry standards for security.
+3. Penetration Testing: Conduct a penetration test to identify
+potential vulnerabilities in their network infrastructure and
+provide recommendations for remediation.
+4. Incident Response: Develop an incident response plan tailored
+to your client's needs, including procedures for responding to
+cybersecurity incidents and restoring normal operations as quickly
+as possible.
+5. Security Awareness Training: Provide security awareness
+training to your client's employees to help them understand the
+importance of cybersecurity and how to protect against cyber
+threats.
+6. Regulatory Compliance: Assist your client in meeting regulatory
+compliance requirements related to cybersecurity, such as GDPR,
+HIPAA, or PCI-DSS.
+7. Security Monitoring: Offer security monitoring services to
+continuously monitor your client's network infrastructure for
+potential threats and provide real-time alerts and recommendations
+for response.
+8. Vulnerability Management: Identify and prioritize
+vulnerabilities in your client's network infrastructure, and
+provide recommendations for remediation.
+9. Compliance Management: Assist your client in managing
+compliance requirements related to cybersecurity, including risk
+assessments, policy development, and regulatory reporting.
+10. Incident Response Planning: Develop an incident response plan
+tailored to your client's needs, including procedures for
+responding to cybersecurity incidents and restoring normal
+operations as quickly as possible.
+      -->
+
+
+
+
+
+
+
+
+      <!--
+        - #ABOUT
+      -->
+
+      <article class="about  active" data-page="about">
+
+        <header>
+          <h2 class="h2 article-title">About me</h2>
+        </header>
+
+        <section class="about-text">
+          <p>
+            Hello everyone, my name is Brian HackWell, and I am an Electrical and
+            Telecommunications Engineer with a passion for Cybersecurity. As
+            someone who has been studying in the field of telecommunications
+            for several years, I have gained a deep understanding of how to
+            secure network infrastructure and protect against cyber threats.
+            In addition to my technical expertise, I am also actively
+            participating in Capture The Flag (CTF) challenges to further hone
+            my skills and stay up-to-date on the latest cybersecurity trends.
+
+          </p>
+
+          <p>
+            Firstly, as an Electrical and Telecommunications Engineer, I have
+            a strong foundation in understanding network infrastructure and
+            security protocols. This knowledge allows me to identify potential
+            vulnerabilities in systems and implement effective countermeasures
+            to protect against cyber threats. Whether it's designing secure
+            networks, implementing firewalls, or conducting penetration
+            testing, my technical expertise is second to none.
+          </p>
+          <p>
+            But being a cybersecurity professional isn't just about having
+            technical skills. It's also about staying up-to-date on the latest
+            trends and threats in the industry. That's why I actively
+            participate in Capture The Flag (CTF) challenges, which provide me
+            with a platform to test my skills against other professionals and
+            learn from them. These challenges help me stay sharp and identify
+            potential vulnerabilities in my own systems, ensuring that I can
+            provide the best possible protection for my clients.
+          </p>
+          <p>
+            In addition to my technical expertise, I also possess excellent
+            soft skills. As a cybersecurity professional, I understand the
+            importance of effective communication and collaboration with
+            clients and other stakeholders. I am able to articulate complex
+            security concepts in simple terms, making it easier for
+            non-technical individuals to understand the risks and challenges
+            associated with cyber threats. My ability to work well under
+            pressure and meet deadlines is also unmatched, which allows me to
+            deliver high-quality results to my clients in a timely manner.
+          </p>
+        </section>
+
+
+
+
+
+
+
